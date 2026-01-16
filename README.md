@@ -82,7 +82,6 @@ Your
 .env
  file already contains:
 
-GEMINI_API_KEY="AIzaSyAQ2gyfu_7N9D4wuTTRaMZKh2Ksj_imtFM"
 ⚠️ Security Note: Never commit your 
 .env
  file to version control. Make sure 
